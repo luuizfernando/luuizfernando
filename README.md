@@ -1,4 +1,4 @@
-<h3 align="center">Hi! My name is Luiz. Thank You for taking the time to view my GitHub Profile 😄</h3>
+<h1 align="center">Hi! My name is Luiz. Thank You for taking the time to view my GitHub Profile 😄</h1>
 
 ###
 
